@@ -1,0 +1,2 @@
+# Test-a-perceptual-phenomenon
+In this project, I have investigated a classic phenomenon from experimental psychology called the Stroop Effect. This project  is about the experiment that creates hypothesis regarding the outcome of the task. In this project I have collected some data collected from others who have performed the same task and will compute some statistics describing the results. Finally, I have interpreted the results in terms of my hypotheses.
